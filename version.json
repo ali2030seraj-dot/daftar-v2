@@ -1,0 +1,18 @@
+{
+  "latest_version_code": 1,
+  "latest_version_name": "2.0.0",
+  "min_supported_version_code": 1,
+  "download_url": "https://github.com/YOUR_USERNAME/daftar-v2/releases/download/v2.0.0/daftar-v2.0.0.apk",
+  "release_notes": [
+    "الإصدار الأول من دفتر حساباتي V2",
+    "إدارة الديون والعملات المتعددة",
+    "تقارير شهرية وسنوية",
+    "تنبيهات الديون المتأخرة",
+    "إيصالات PDF + QR",
+    "التقويم الهجري + حاسبة الزكاة",
+    "يعمل بدون إنترنت"
+  ],
+  "mandatory": false,
+  "released_at": "2026-09-25",
+  "apk_size_mb": 15.5
+}
