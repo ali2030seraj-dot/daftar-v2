@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+
+    <!-- ⭐ قواعد النسخ السحابي (Android 12+) -->
+    <cloud-backup>
+        <!-- استبعاد الملفات المؤقتة -->
+        <exclude domain="file" path="auto_backups/" />
+        <exclude domain="file" path="voices/" />
+        <exclude domain="file" path="branding/" />
+    </cloud-backup>
+
+    <!-- ⭐ قواعد نقل البيانات بين الأجهزة (Android 12+) -->
+    <device-transfer>
+        <exclude domain="file" path="auto_backups/" />
+        <exclude domain="file" path="voices/" />
+        <exclude domain="file" path="branding/" />
+    </device-transfer>
+
+</data-extraction-rules>

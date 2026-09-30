@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+
+    <!-- ⭐ استبعاد الملفات المؤقتة (cache) لا يحتاج domain="cache" -->
+    <!-- لأن cache لا يُنسخ احتياطياً بشكل افتراضي -->
+
+    <!-- ⭐ استبعاد النسخ الاحتياطية التلقائية الكبيرة -->
+    <exclude domain="file" path="auto_backups/" />
+    <exclude domain="file" path="voices/" />
+
+    <!-- ⭐ استبعاد الشعار (يُنسخ يدوياً مع النسخة الاحتياطية) -->
+    <exclude domain="file" path="branding/" />
+
+</full-backup-content>

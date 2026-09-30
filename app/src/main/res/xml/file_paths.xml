@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- ⭐ مجلد Cache — للنسخ الاحتياطية المؤقتة + PDF مؤقت -->
+    <cache-path
+        name="cache"
+        path="." />
+
+    <!-- ⭐ مجلد Files الداخلي — للنسخ الاحتياطية الدائمة -->
+    <files-path
+        name="files"
+        path="." />
+
+    <!-- ⭐ مجلد Files الخارجي الخاص بالتطبيق -->
+    <external-files-path
+        name="external_files"
+        path="." />
+
+    <!-- ⭐ مجلد التنزيلات — لتحديثات التطبيق (APK) -->
+    <external-files-path
+        name="downloads"
+        path="Download/" />
+
+    <!-- ⭐ التخزين الخارجي العام (اختياري — لمشاركة PDF) -->
+    <external-path
+        name="external"
+        path="." />
+</paths>

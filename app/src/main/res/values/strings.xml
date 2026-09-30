@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Header -->
+    <string name="app_name">دفتر حساباتي</string>
+    <string name="app_subtitle">نظّم مالك .. لحياة أفضل</string>
+
+    <!-- Financial Card -->
+    <string name="financial_status">الوضع المالي الحالي</string>
+    <string name="you_have">ما لك</string>
+    <string name="you_owe">ما عليك</string>
+    <string name="expenses">المصروفات</string>
+    <string name="net_balance">الصافي</string>
+
+    <!-- Actions -->
+    <string name="action_debt">ما لك</string>
+    <string name="action_payment">ما عليك</string>
+    <string name="action_expense">المصروفات</string>
+    <string name="action_operations">عمليات</string>
+    <string name="action_reports">تقارير</string>
+    <string name="action_calendar">التقويم</string>
+    <string name="action_zakat">الزكاة</string>
+    <string name="action_security">أمان</string>
+    <string name="action_activate">تفعيل</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_about">حول التطبيق</string>
+    <string name="nav_guide">دليل الاستخدام</string>
+    <string name="nav_currency">تغيير العملات</string>
+    <string name="nav_more">المزيد</string>
+
+    <!-- Currency -->
+    <string name="currency_yer">ر.ي</string>
+    <string name="currency_sar">ر.س</string>
+    <string name="currency_usd">$</string>
+</resources>
