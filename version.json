@@ -1,15 +1,1 @@
-{
-  "latest_version_code": 2,
-  "latest_version_name": "2.0.1",
-  "min_supported_version_code": 1,
-  "download_url": "https://github.com/ali2030seraj-dot/daftar-v2/releases/download/v2.0.1/app-release.apk",
-  "release_notes": [
-    "🔄 نظام تحديث تلقائي جديد — التطبيق يُعلمك عند وجود إصدار جديد",
-    "✅ فحص تلقائي عند فتح التطبيق",
-    "🐛 إصلاحات وتحسينات متنوعة",
-    "🎨 تحسينات في الأداء والاستقرار"
-  ],
-  "mandatory": false,
-  "released_at": "2026-10-15",
-  "apk_size_mb": 25.0
-}
+
